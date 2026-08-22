@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large ZIP datasets
+*.zip
+
+# Project data
+project_1/data.csv
+project_2/chest_xray/
+project_3/FGVCAircraft_Subset20/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
