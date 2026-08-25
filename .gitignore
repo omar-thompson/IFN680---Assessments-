@@ -13,6 +13,9 @@ __pycache__/
 project_1/data.csv
 project_2/chest_xray/
 project_3/FGVCAircraft_Subset20/
+project_4/Case 1/Case1Dataset
+project_4/Case 2/Case2Dataset
+project_4/Case 3/Case3Dataset
 
 # Python virtual environments
 venv/
@@ -21,3 +24,6 @@ env/
 
 # OS files
 .DS_Store
+# macOS metadata
+__MACOSX/
+._*
