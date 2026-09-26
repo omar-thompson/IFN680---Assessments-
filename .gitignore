@@ -27,3 +27,4 @@ env/
 # macOS metadata
 __MACOSX/
 ._*
+mnist_custom*.pt
