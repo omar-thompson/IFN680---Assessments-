@@ -1,0 +1,8 @@
+steps K,linear: error amplification,cosine: error amplification
+1000,1.0,31.6
+500,1.0,63.2
+250,1.0,126.5
+100,1.1,316.0
+50,1.2,632.0
+25,1.5,1295.3
+10,2.9,4096.0
