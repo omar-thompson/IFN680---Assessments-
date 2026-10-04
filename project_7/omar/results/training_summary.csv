@@ -1,0 +1,3 @@
+schedule,T,epochs,train time (min),time / epoch (s),final epoch loss,mean loss last 10 ep.,trained on
+linear,1000,150,21.2,8.5,0.0282,0.0283,cuda
+cosine,1000,150,21.2,8.5,0.0484,0.0486,cuda
